@@ -15,7 +15,7 @@ Corporate Experience
 :   *Head of Data for [Wattpad](https://www.wattpad.com/)*
     (Remote - Canada).
 
-    	•	Provided overall direction and leadership to my team of  Data Scientists, Analysts, Data, Platform, Analytics and ML Engineers to achieve significant results in stabilising our data platform, rolling out key ML features and creating a new platform of self serve analytics for our stakeholders.
+	•	Provided overall direction and leadership to my team of  Data Scientists, Analysts, Data, Platform, Analytics and ML Engineers to achieve significant results in stabilising our data platform, rolling out key ML features and creating a new platform of self serve analytics for our stakeholders.
 	•	Our focus was on engagement of our users, product revenue and user safety. I supported my teams in delivering projects that improved visibility and discovery of ongoing stories via algorithmic and personalization improvements which in turn increased reader engagement.  Improvements included genre / tag classification to more accurately reflect the content of our stories, personalization of recommendation rows on homepage, better search relevance. 
 	•	Within data/platform engineering we created a new datalake framework and migrated 90% of our Data pipelines.  I built a data stewardship program which improved our pipeline reliability and reduced response times by half for SREs. Led the creation and migration to a new eventing platform which improved the way we tracked user behaviour as well as working with ML engineering to productionize our ML models and evolve our MLOPs lifecycle.
 	•	Collaborated with a partner University for AI research to understand their work and recommend experiments that were aligned with our goals.
