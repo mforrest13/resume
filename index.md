@@ -1,115 +1,73 @@
-Christophe-Marie Duquesne
+Michelle Forrest
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Specialties:  Python, Linux, Leadership\
+>  BSC in Computer Science 
 
 ----
 
 Corporate Experience
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+2021-2024
+:   *Head of Data for [Wattpad](https://www.wattpad.com/)*
+    (Remote - Canada).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    Provided overall direction and leadership to my team of  Data Scientists, Analysts, Data, Platform, Analytics and ML Engineers to achieve significant results in stabilising our data platform, rolling out key ML features and creating a new platform of self serve analytics for our stakeholders.
+	•	Our focus was on engagement of our users, product revenue and user safety. I supported my teams in delivering projects that improved visibility and discovery of ongoing stories via algorithmic and personalization improvements which in turn increased reader engagement.  Improvements included genre / tag classification to more accurately reflect the content of our stories, personalization of recommendation rows on homepage, better search relevance. 
+	•	Within data/platform engineering we created a new datalake framework and migrated 90% of our Data pipelines.  I built a data stewardship program which improved our pipeline reliability and reduced response times by half for SREs. Led the creation and migration to a new eventing platform which improved the way we tracked user behaviour as well as working with ML engineering to productionize our ML models and evolve our MLOPs lifecycle.
+	•	Collaborated with a partner University for AI research to understand their work and recommend experiments that were aligned with our goals.
+	•	Worked with the rest of the leadership team on product strategy, prioritisation and vision while improving the ways we leverage our data to support our business goals and improving our Ads revenue and subscriber base..
+	•	Created savings year over year by negotiating with third-party vendors to assess and implement tooling that helps move our business and technology strategy forward as well as managing renewals of existing contracts. Improved operations by providing forecasting and management of the OPEX budget for our data organisation, including vendor contracts, team budgets and resource planning. 
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+2018-2021
+:   *Data & DevOps Engineering Manager  
+    [Lixar BDO](https://www.bdo.ca/)* (Remote - Canada).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+   Led a team of Devops Specialists, Quality Assurance Analysts  and UX/Data Visualization specialists to successfully deliver application and data cloud solutions to our clients and create new business opportunities.. 
+	•	Worked with our partner organisations to provide cloud solutions to our customers including provision of support processes, cloud consumption and billing oversight.
+	•	Fostered a culture of learning and operational improvements through effective SDLC processes, including agile methodologies, CD/CI best practices, and infrastructure as code. 
+	•	Collaborated with internal teams to ensure that shared concerns such as identity management, usage analytics, and proactive maintenance are addressed as well as data governance. 
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2016-2018 
+:   *Director Software Engineering [Kinduct](https://www.movella.com/products/kinduct)*
+    (Halifax, Canada).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+   Led an engineering team of Software, QA, DevOps, Platform and Data Engineers to prioritise and deliver product features and engineering enhancements to address technical debt and security vulnerabilities.
+	•	Implemented processes and deployed industry standards to deliver successful software releases in a timely manner using agile methodology. 
+	•	Researched emerging best practices and implemented solutions to meet the overall vision of the organisation. 
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+2011-2016
+:   *Sr IT Project Manager Service / Delivery Manager   [Unisys](https://www.unisys.com/)* (Halifax,
+    Canada).
+Managed the integration of a new provincial jurisdiction into a key online legislated PPRS service (Personal property registration system). 
+	•	Provided ongoing strategic planning and management of multiple products, projects for ACOL online services as a Service Delivery Manager.  
+	•	Ensured PCI compliance was maintained by acting as a CSA3416 Internal Auditor for Finance and Incident Management control activities. 
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+2009-2010
+:    *IT Consultant  [Theodore Wile Intertrade TWI](https://twipv.com/)* (Dubai, UAE). 
+	•	Supported the implementation and rollout of a web-based Logistics quoting tool system which included elements for Buyers, Logistics and Suppliers.  
 
-Selected Open Source Contributions
-----------------------------------
+2007-2009 
+:    *Senior IT Project Manager [Nortel Networks]* (Dubai, UAE)  
+	•	Remotely managed a multiphase, multi-year Fiber Optic Network Implementation project to deliver, install and commission a fibre optical network in Iraq consisting of 40+ sites and three rings and working with ITPC and sub-contractors as well as other global Nortel business units (Engineering, Logistics, Quality, Finance). 
 
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+2004 to 2006
+:    *IT Solutions Manager/Acting Director Operations [eHosting Datafort](https://www.ehdf.com/)* (Dubai, UAE)  
+	•	Provided Program management for the design and rollout of Network Centre customer solutions for hosted application and network servers. 
+	•	Introduced ITIL to the organisation through business process redesign and training for end users of the ITIL tools and worked with ITIL consultants on the redesign and change management for all processes and ensuring ITIL policies were documented and followed. 
+	•	Led our business unit in the TECOM ISO 9001:2000 certification project.  
 
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+1997 to 2003 
+:    *IT Consultant/Project Manager [xwave] (Halifax, Canada). 
+As a Technical Project Manager implemented several SW projects and led the rollout of the first Aliant wide service offering (DSL customer self-install kit) for Bell Aliant Telecom 
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
-
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
-
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
-
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
-
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
-
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+:   *BCS in Computer Science in Dalhousie* (Halifax, Canada).
 
 Activities and interests
 ------------------------
@@ -121,12 +79,7 @@ Hobbies
 Sports
 :   Running, Cycling, Hiking. I also played rugby union for 7 years.
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
-
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> <[chmd@chmd.fr](https://www.linkedin.com/in/michelleforrest1/)> • +1 902 222 6441 \
+>  17 Stephenswood Road, Enfield Nova Scotia Canada
