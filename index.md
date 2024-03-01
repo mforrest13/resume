@@ -15,7 +15,7 @@ Corporate Experience
 :   *Head of Data for [Wattpad](https://www.wattpad.com/)*
     (Remote - Canada).
 
-    Provided overall direction and leadership to my team of  Data Scientists, Analysts, Data, Platform, Analytics and ML Engineers to achieve significant results in stabilising our data platform, rolling out key ML features and creating a new platform of self serve analytics for our stakeholders.
+    	•	Provided overall direction and leadership to my team of  Data Scientists, Analysts, Data, Platform, Analytics and ML Engineers to achieve significant results in stabilising our data platform, rolling out key ML features and creating a new platform of self serve analytics for our stakeholders.
 	•	Our focus was on engagement of our users, product revenue and user safety. I supported my teams in delivering projects that improved visibility and discovery of ongoing stories via algorithmic and personalization improvements which in turn increased reader engagement.  Improvements included genre / tag classification to more accurately reflect the content of our stories, personalization of recommendation rows on homepage, better search relevance. 
 	•	Within data/platform engineering we created a new datalake framework and migrated 90% of our Data pipelines.  I built a data stewardship program which improved our pipeline reliability and reduced response times by half for SREs. Led the creation and migration to a new eventing platform which improved the way we tracked user behaviour as well as working with ML engineering to productionize our ML models and evolve our MLOPs lifecycle.
 	•	Collaborated with a partner University for AI research to understand their work and recommend experiments that were aligned with our goals.
@@ -26,7 +26,7 @@ Corporate Experience
 :   *Data & DevOps Engineering Manager  
     [Lixar BDO](https://www.bdo.ca/)* (Remote - Canada).
 
-   Led a team of Devops Specialists, Quality Assurance Analysts  and UX/Data Visualization specialists to successfully deliver application and data cloud solutions to our clients and create new business opportunities.. 
+   	•	Led a team of Devops Specialists, Quality Assurance Analysts  and UX/Data Visualization specialists to successfully deliver application and data cloud solutions to our clients and create new business opportunities.. 
 	•	Worked with our partner organisations to provide cloud solutions to our customers including provision of support processes, cloud consumption and billing oversight.
 	•	Fostered a culture of learning and operational improvements through effective SDLC processes, including agile methodologies, CD/CI best practices, and infrastructure as code. 
 	•	Collaborated with internal teams to ensure that shared concerns such as identity management, usage analytics, and proactive maintenance are addressed as well as data governance. 
@@ -35,14 +35,14 @@ Corporate Experience
 :   *Director Software Engineering [Kinduct](https://www.movella.com/products/kinduct)*
     (Halifax, Canada).
 
-   Led an engineering team of Software, QA, DevOps, Platform and Data Engineers to prioritise and deliver product features and engineering enhancements to address technical debt and security vulnerabilities.
+  	• 	Led an engineering team of Software, QA, DevOps, Platform and Data Engineers to prioritise and deliver product features and engineering enhancements to address technical debt and security vulnerabilities.
 	•	Implemented processes and deployed industry standards to deliver successful software releases in a timely manner using agile methodology. 
 	•	Researched emerging best practices and implemented solutions to meet the overall vision of the organisation. 
 
 2011-2016
 :   *Sr IT Project Manager Service / Delivery Manager   [Unisys](https://www.unisys.com/)* (Halifax,
     Canada).
-Managed the integration of a new provincial jurisdiction into a key online legislated PPRS service (Personal property registration system). 
+	•	Managed the integration of a new provincial jurisdiction into a key online legislated PPRS service (Personal property registration system). 
 	•	Provided ongoing strategic planning and management of multiple products, projects for ACOL online services as a Service Delivery Manager.  
 	•	Ensured PCI compliance was maintained by acting as a CSA3416 Internal Auditor for Finance and Incident Management control activities. 
 
@@ -62,7 +62,7 @@ Managed the integration of a new provincial jurisdiction into a key online legis
 
 1997 to 2003 
 :    *IT Consultant/Project Manager [xwave] (Halifax, Canada). 
-As a Technical Project Manager implemented several SW projects and led the rollout of the first Aliant wide service offering (DSL customer self-install kit) for Bell Aliant Telecom 
+	•	As a Technical Project Manager implemented several SW projects and led the rollout of the first Aliant wide service offering (DSL customer self-install kit) for Bell Aliant Telecom 
 
 Education
 ---------
